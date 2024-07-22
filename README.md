@@ -1,4 +1,4 @@
-# notification_flutter_onesingal
+# notification_flutter_onesignal
 
 A new Flutter project.
 
